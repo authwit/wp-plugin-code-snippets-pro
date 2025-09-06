@@ -1,0 +1,7 @@
+{
+  "name": "authwit/code-snippets-pro",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^2"
+  }
+}
